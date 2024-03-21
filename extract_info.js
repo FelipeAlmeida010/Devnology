@@ -1,4 +1,4 @@
-// Função para extrair e retornar o Nutri-Score isso
+// Função para extrair e retornar o Nutri-Score issooooo
 function extractNutriScore() {
     const nutriScoreElement = document.querySelector('.grade_d .attr_text');
     if (nutriScoreElement) {
