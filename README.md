@@ -3,3 +3,4 @@ Script criado para selecionar informações de pagina web através do proprio co
  A imagem inserida deve ser desconsiderada
 
 mais testes
+e lá vamos nós
