@@ -12,3 +12,4 @@ vamos nós
 teste
 vai
 oi
+oi
